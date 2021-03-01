@@ -14,4 +14,4 @@ Clone this Respository. <br/>
 Run npm link in the commandline indside project diectory.<br/>
 npm start will start the app in the development server.<br/>
 
-warning!!!
+warning
