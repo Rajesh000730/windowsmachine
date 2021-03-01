@@ -6,7 +6,7 @@ React FrameWork
 React-Router-Dom.<br/>
 Material-Ui.
 
-# To check out this page
+# Check out this page
 visit [this page](https://www.google.com)
 
 # To Run this
